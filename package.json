@@ -1,0 +1,28 @@
+{
+  "name": "zabbix-auto-registration-dhcp-fix",
+  "version": "1.0.0",
+  "description": "Symple fix for zabbix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arma666/zabbix-auto-registration-dhcp-fix.git"
+  },
+  "keywords": [
+    "zabbix",
+    "auto",
+    "registration",
+    "dhcp"
+  ],
+  "author": "Pavel Popov",
+  "license": "ISC",
+  "dependencies": {
+    "zabbix-node": "^0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/arma666/zabbix-auto-registration-dhcp-fix/issues"
+  },
+  "homepage": "https://github.com/arma666/zabbix-auto-registration-dhcp-fix#readme"
+}
