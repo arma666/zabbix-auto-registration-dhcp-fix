@@ -14,6 +14,6 @@ For example, in a network of windows, you use the autoregistration of domain com
 
 ### _Config_
 groupid:
-![group](https://i.imgur.com/NJOGe9g.png)
+![group](https://image.ibb.co/dswkh7/2018_03_27_20_41_27.png)
 
 usedns: if true, zabbix connect to host by dns name (In any case, the ip address is changing)
