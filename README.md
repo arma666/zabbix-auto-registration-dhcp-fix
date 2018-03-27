@@ -1,0 +1,1 @@
+# zabbix-auto-registration-dhcp-fix
